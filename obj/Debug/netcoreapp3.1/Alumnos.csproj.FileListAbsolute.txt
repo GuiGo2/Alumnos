@@ -1,0 +1,13 @@
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.csprojAssemblyReference.cache
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.AssemblyInfoInputs.cache
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.AssemblyInfo.cs
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.exe
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.deps.json
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.runtimeconfig.json
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.runtimeconfig.dev.json
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.dll
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\bin\Debug\netcoreapp3.1\Alumnos.pdb
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.dll
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.pdb
+C:\Users\Rodri\Desktop\ProyectoGit\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.genruntimeconfig.cache

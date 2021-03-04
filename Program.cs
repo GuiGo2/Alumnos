@@ -6,10 +6,11 @@ namespace Alumnos
     {
         static void Main(string[] args)
         {
-            var nombre = "Pikachu"
-            var apellido = "Gonzalez"
+            
+            var nombre = "Pikachu";
+            var apellido = "Gonzalez";
 
-            Console.WriteLine("hola! + nombre + apellido + "es mi nombre completo");
+            Console.WriteLine("hola!" + nombre + " " + apellido + "es mi nombre completo.");
         }
     }
 }
