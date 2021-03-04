@@ -4,13 +4,21 @@ namespace Alumnos
 {
     class Persona
     {
+        enum Metodo
+    {
+        saludo,
+
+        Nombre,
+        
+        apellido
+    }
         static void Main(string[] args)
         {
             
             var nombre = "Pikachu";
             var apellido = "Gonzalez";
 
-            Console.WriteLine("hola! " + nombre + " " + apellido + " es mi nombre completo.");
+            saludo = Console.WriteLine("hola! " + nombre + " " + apellido + " es mi nombre completo.");
         }
     }
 }
